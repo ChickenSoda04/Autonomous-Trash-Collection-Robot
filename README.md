@@ -1,12 +1,11 @@
-<div align="center">
+<div align="center" markdown="1">
 
 # Autonomous Trash Collection
 
-<img width="1371" height="321" alt="image" src="https://github.com/user-attachments/assets/b066e3b0-ca6e-486a-8b3d-a0fa0c022a4e" />
+<img width="1371" height="321" alt="image" src="ucsdlogo.png" />
 
 ### Team 10 & 15
 ### ECE/MAE 148 Final Project Winter 2026
-
 
 </div>
 
@@ -102,9 +101,7 @@ The **Autonomous Trash Collection** robot is a self-driving car equipped with a 
 
 
 ## Robot Arm Design
-
-<img width="1539" height="1186" alt="image" src="https://github.com/user-attachments/assets/617c80ce-14d9-495a-8379-94652723138f" />
-
+<img width="1539" height="1186" alt="image" src="561183992-617c80ce-14d9-495a-8379-94652723138f.png" />
 Arm Calibration Testing
 
 
@@ -125,8 +122,7 @@ Arm Calibration Testing
 
 ## Car Platform
 
-<img width="1539" height="1186" alt="image" src="https://github.com/user-attachments/assets/a2e67007-10ce-4d0d-89df-18d86acacb76" />
-
+<img width="1539" height="1186" alt="image" src="566496163-a2e67007-10ce-4d0d-89df-18d86acacb76.jpg" />
 
 
 
@@ -145,7 +141,6 @@ Arm Calibration Testing
 
 ## Project Demo
 [![Watch the video](https://img.youtube.com/vi/5j4aBRYknjA/0.jpg)](https://youtu.be/5j4aBRYknjA)
-https://github.com/user-attachments/assets/f94f558a-d26e-4469-a908-87ad22a79aea
 
 ## References
 - [TheRobotStudio](https://github.com/TheRobotStudio/SO-ARM100)
