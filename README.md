@@ -144,7 +144,7 @@ Arm Calibration Testing
 ---
 
 ## Project Demo
-
+[![Watch the video](https://img.youtube.com/vi/5j4aBRYknjA/0.jpg)](https://youtu.be/5j4aBRYknjA)
 https://github.com/user-attachments/assets/f94f558a-d26e-4469-a908-87ad22a79aea
 
 ## References
